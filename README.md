@@ -59,7 +59,7 @@ https://frontendmasters.com/courses/web-development/
 https://www.freecodecamp.org/
 https://websitesetup.org/ (Wordpress specific)
  
-## Website builders to rent (thus access to documentation as well as e-mail support) and test out **
+## Website builders to rent (thus access to documentation as well as e-mail support) and test out
 https://en.squarespace.com/ (I have the best experience so far)\
  
 ### Competition
