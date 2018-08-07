@@ -1,4 +1,4 @@
-# build-small-websites-without-coding-skills
+# build-small-websites-and-learn-coding
 This shall be a guide on how to start learning – as a designer without coding skills – how to build small and simple websites with minimal configuration effort and low to no maintenance, based on hosted services.
 
 The plan is to develop a curriculum as a guideline, so you can start learning instantly.
