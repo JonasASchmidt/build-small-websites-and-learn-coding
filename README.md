@@ -63,8 +63,7 @@ https://websitesetup.org/ (Wordpress specific)
 https://en.squarespace.com/ (I have the best experience so far)
  
 ### Competition
-https://wordpress.com/create/
-(Even with the hosted version of Wordpress on wordpress.com you can use your own domains, so it saves on maintenance costs too)  
+https://wordpress.com/create/  
 https://carrd.co/  
 https://de.jimdo.com/  
 https://www.wix.com/  
