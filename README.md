@@ -11,9 +11,9 @@ In the following I just jot from memory how I would approach the topic today.
 
 Scope is small simple websites with basic functionality. Setup, domain configuration and maintenance should be as simple and automated as possible. Theme adjustment should be possible with some HTML and CSS.
 
-This guide does not cover: Information architecture, content strategy and user experience (which will be necessary of course to create successful websites.
-
 I believe to accomplish this, one needs basic to good skills in HTML and CSS and maybe a bit of JS. And of course platform specific knowledge about configuration of the hosted CMS and the theme framework.
+
+This guide does not cover: Information architecture, branding, content strategy and user interface and user experience design (which will be necessary of course to create successful websites.
 
 To know where to go it might be useful to create a fictional client project with a project name and some branding so the project is real and fun for you. Set a S.M.A.R.T. goal in the beginning so you can measure your success afterwards. Something that can go live as an MVP as fast as possible and can you build up skills as you go and implement different features one by one. This also serves as a tangible outcome and a kind of portfolio site afterwards. A personal side project.
 
