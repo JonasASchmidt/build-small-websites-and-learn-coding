@@ -1,7 +1,7 @@
 # build-small-websites-and-learn-coding
 This shall be a guide on how to start learning – as a designer without coding skills – how to build small and simple websites with minimal configuration effort and low to no maintenance, based on hosted services.
 
-The plan is to develop a curriculum as a guideline, so you can start learning instantly.
+The plan is to develop a micro-curriculum as a guide, so you can start learning instantly.
 
 I see the timely horizon somehwere around a year when you do it besides your fulltime employment and having children too maybe. The more time you can invest, the faster you will be.
 
