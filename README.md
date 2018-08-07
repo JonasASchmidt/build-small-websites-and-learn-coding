@@ -21,7 +21,7 @@ To know where to go it might be useful to create a fictional client project with
 
 * Domain order and connection, possibly configuration (subdomains, subfolders etc.)
 * Information architecture (page structure, header, content and/or footer menu)
-* Content maintenance or training so customers can do it themselves. (Otherwise: Service contract! Or on the hour to help on demand with clear pricing!)
+* Content maintenance
 * Setup email addresses + mailboxes + redirects
 * Integration of web fonts (Google fonts) for typographic design
 * Theme customization (with HTML, CSS, possibly JS and even some PHP, at least in the case of Wordpress)
