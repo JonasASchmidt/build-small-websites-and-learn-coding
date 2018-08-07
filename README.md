@@ -49,43 +49,43 @@ To know where to go it might be useful to create a fictional client project with
 * Additional tech config know-how
 
 ### Courses I recommend
-https://learn.shayhowe.com/html-css/ (HTML & CSS)\
-https://javascript30.com/ (JS)\
+https://learn.shayhowe.com/html-css/ (HTML & CSS)  
+https://javascript30.com/ (JS)
 
 ### More courses for comparison and as alternative
-https://teamtreehouse.com/tracks/front-end-web-development
-https://www.codecademy.com/catalog/language/html-css
-https://frontendmasters.com/courses/web-development/
-https://www.freecodecamp.org/
-https://websitesetup.org/ (Wordpress specific)
+https://teamtreehouse.com/tracks/front-end-web-development  
+https://www.codecademy.com/catalog/language/html-css  
+https://frontendmasters.com/courses/web-development/  
+https://www.freecodecamp.org/  
+https://websitesetup.org/ (Wordpress specific)  
  
 ## Website builders to rent (thus access to documentation as well as e-mail support) and test out
-https://en.squarespace.com/ (I have the best experience so far)\
+https://en.squarespace.com/ (I have the best experience so far)
  
 ### Competition
 https://wordpress.com/create/
-(Even with the hosted version of Wordpress on wordpress.com you can use your own domains, so it saves on maintenance costs too)\
-https://carrd.co/\
-https://de.jimdo.com/\
-https://www.wix.com/\
-www.weebly.com\
-www.semplice.com\
-www.webflow.com\
-www.koken.me\
-www.webydo.com\
+(Even with the hosted version of Wordpress on wordpress.com you can use your own domains, so it saves on maintenance costs too)  
+https://carrd.co/  
+https://de.jimdo.com/  
+https://www.wix.com/  
+www.weebly.com  
+www.semplice.com  
+www.webflow.com  
+www.koken.me  
+www.webydo.com
  
 ### Additional resources on coding (in HTML + CSS) for autodidactic research
-https://www.smashingmagazine.com/articles/\
-https://css-tricks.com/\
-https://alistapart.com\
+https://www.smashingmagazine.com/articles/  
+https://css-tricks.com/  
+https://alistapart.com
  
 ### Basic software & tools for coding
-https://atom.io/ (code editor)\
-https://www.sublimetext.com/ (code editor)\
-https://code.visualstudio.com/ (code editor)\
-https://github.com/ (code versioning)\
-http://opentechschool.github.io/github-from-scratch/ (learn to use github, it's useful)\
-https://developers.google.com/web/tools/lighthouse/ (website analysis tool)\
+https://atom.io/ (code editor)  
+https://www.sublimetext.com/ (code editor)  
+https://code.visualstudio.com/ (code editor)  
+https://github.com/ (code versioning)  
+http://opentechschool.github.io/github-from-scratch/ (learn to use github, it's useful)  
+https://developers.google.com/web/tools/lighthouse/ (website analysis tool)  
  
 **Here a very good and pretty holistic course on digital design in general https://hackdesign.org/ if you want to go really deep.**
 
