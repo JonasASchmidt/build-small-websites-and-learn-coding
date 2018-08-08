@@ -31,7 +31,7 @@ To know where to go it might be useful to create a fictional client project with
 * Download area, media gallery
 * Newsletter registration and setup / connection mailing list (Mailchimp, Cleverreach)
 * Mini shop with payment or paid downloads (Stripe or Paypal or similar)
-* Connection table reservation (e.g. OpenTable)
+* Table reservation (e.g. OpenTable)
 * Website Analytics (Google Analytics, Google Lighthouse)
 * Google Maps with location picker
 * Social media connection (Sharelinks: facebook, twitter, instagram, G +)
