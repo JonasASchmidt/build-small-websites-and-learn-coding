@@ -1,9 +1,7 @@
 # build-small-websites-and-learn-coding
-This shall be a guide on how to start learning how to build small and simple websites with minimal configuration effort and low to no maintenance, based on hosted services.
+This shall be a guide on how to start learning how to build small and simple websites with minimal configuration effort and low to no maintenance, based on hosted services. Also you will need to learn HTML & CSS and maybe some JS in order to know what you're doing and adapt website themes to your liking.
 
-The plan is to develop a micro-curriculum as a guide, so you can start learning instantly.
-
-I see the timely horizon somehwere around a year when you do it besides your fulltime employment and having children too maybe. The more time you can invest, the faster you will be.
+I see the timely horizon somewhere around a year when you do it besides your full time employment and having children too maybe. The more time you can invest, the faster you will be.
 
 **Mind: This is only draft status and – because written from memory – needs proof of concept and feedback. It is meant to grow over time.**
 
@@ -11,7 +9,7 @@ In the following I just jot from memory how I would approach the topic today.
 
 Scope is small simple websites with basic functionality. Setup, domain configuration and maintenance should be as simple and automated as possible. Theme adjustment should be possible with some HTML and CSS.
 
-I believe to accomplish this, one needs basic to good skills in HTML and CSS and maybe a bit of JS. And of course platform specific knowledge about configuration of the hosted CMS and the theme framework.
+I believe to accomplish this, one needs basic to good skills in HTML and CSS and maybe a bit of JS. And of course platform specific knowledge about configuration of the hosted CMS and the theme framework. Also some administrative knowledge about 
 
 This guide does not cover: Information architecture, branding, content strategy and user interface and user experience design (which will be necessary of course to create successful websites).
 
@@ -19,29 +17,42 @@ To know where to go it might be useful to create a fictional client project with
 
 ## Find here possible client requirements (or wishes) that can occur in any combination (not complete I guess)
 
-* Domain order and connection, possibly configuration (subdomains, subfolders etc.)
-* Information architecture (page structure, header, content and/or footer menu)
+### Administrative
+* Domain ordering, transfer and connection, possibly configuration (subdomains, subfolders etc.)
+* Setup email addresses, mailboxes and maybe redirects
+
+### Structure & Content
+* Information architecture (site structure, page header, content and/or footer menu)
 * Content maintenance
-* Setup email addresses + mailboxes + redirects
+
+### Styling (theme adaptation)
 * Integration of web fonts (Google fonts) for typographic design
 * Theme customization (with HTML, CSS, possibly JS and even some PHP, at least in the case of Wordpress)
-
 * Large hero image stage in the page header
+
+### Features
 * Protect pages with password
 * Download area, media gallery
 * Newsletter registration and setup / connection mailing list (Mailchimp, Cleverreach)
 * Mini shop with payment or paid downloads (Stripe or Paypal or similar)
 * Table reservation (e.g. OpenTable)
-* Website Analytics (Google Analytics, Google Lighthouse)
-* Google Maps with location picker
-* Social media connection (Sharelinks: facebook, twitter, instagram, G +)
 * Search
-* Multilanguage content
-* Basic SEO (Google Webmaster Tools)
+* Google Maps with location picker
+* Social media connection to e.g. facebook, twitter, instagram, G+ (Native or via share links service)
+
+### Analytics
+* Website Analytics (Google Analytics, Google Lighthouse)
+* Google Webmaster Tools
+
+### Additional features
+* Multi language content (depends on platform support)
+* Basic SEO
 * Basic SEA (Google AdWords)
-* Content: Imprint and privacy issues (DSGVO / GDPR), cookies etc.
-* ...
- 
+
+### Legal
+* Imprint requirements and information security and privacy disclaimer (DSGVO / GDPR), cookies etc.
+
+
 ## Learning streams
 * HTML + CSS (+ possibly JS) learn to customize Themes / Templates
 * Learn how to handle (specific) website building / hosted CMS and map all other project requirements
@@ -59,19 +70,21 @@ https://frontendmasters.com/courses/web-development/
 https://www.freecodecamp.org/  
 https://websitesetup.org/ (Wordpress specific)  
  
-## Website builders to rent (thus access to documentation as well as e-mail support) and test out
-https://en.squarespace.com/ (I have the best experience so far)
+## Website building platforms for rent (thus access to documentation as well as e-mail support) and test out
+https://en.squarespace.com/ (I have the best experience so far with this service, that's why I recommend it. Can't say I did a comparison)
+http://workshops.squarespace.com/getting-started-webinars
+https://support.squarespace.com/hc/de
  
 ### Competition
 https://wordpress.com/create/  
 https://carrd.co/  
 https://de.jimdo.com/  
 https://www.wix.com/  
-www.weebly.com  
-www.semplice.com  
-www.webflow.com  
-www.koken.me  
-www.webydo.com
+https://www.weebly.com  
+https://www.semplice.com  
+https://www.webflow.com  
+https://www.koken.me  
+https://www.webydo.com
  
 ### Additional resources on coding (in HTML + CSS) for autodidactic research
 https://www.smashingmagazine.com/articles/  
